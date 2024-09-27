@@ -41,5 +41,3 @@ Segmentation Network for Printed Label Defect Detection", IEEE Transactions on I
 - Harbin Institute of Technology, PhD, 2018-2023.
 - Harbin Institute of Technology, MS, 2016-2018.
 - Harbin Institute of Technology, BS, 2012-2016.
-
-
