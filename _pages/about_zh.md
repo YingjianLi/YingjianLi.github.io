@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Yingjian Li received the B.Sc., M.Sc., and Ph.D. degrees from Harbin Institute of Technology, China, in 2016, 2018, and 2023, respectively. Now he is a Postdoctoral Researcher in Peng Cheng laboratory, Shenzhen, China. His research interests include affective computing, multi-modal leaning, and cloud-device collaborative learning. He has published more than 20 journal (IEEE TIP, TMM, TAFFC, TCSVT, etc.) and conference (ACM-MM) papers. He has won the Outstanding Doctoral Dissertation Award of SZCCF, and the National Scholarship for Doctoral Students; served as a reviewer for journals such as IEEE TNNLS and a member of the program committee of top conferences such as CVPR.
-
-
+Yingjian Li received the B.Sc., M.Sc., and Ph.D. degrees from Harbin Institute of Technology, China, in 2016, 2018, and 2023, respectively. Now he is a Postdoctoral Researcher in Peng Cheng laboratory, Shenzhen, China. His research interests include affective computing, multi-modal leaning, and cloud-device collaborative learning.
+He has published more than 20 journal (IEEE TIP, TMM, TAFFC, TCSVT, etc.) and conference (ACM-MM) papers. <a href='https://scholar.google.com/citations?user=4am2MOoAAAAJ'>His Google page is here.</a>
 
 
 # 🔥 News
@@ -29,17 +28,15 @@ Full publication list is [here](https://scholar.google.com/citations?user=4am2MO
 - **Y. Li**, Y. Lu, B. Chen, Z. Zhang, J. Li, G. Lu, and D. Zhang, "Learning Informative and Discriminative Features for Facial Expression Recognition in the Wild," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 5, pp. 3178-3189, May 2022, doi: 10.1109/TCSVT.2021.3103760. ([paper](https://ieeexplore.ieee.org/document/9511448))
 - Y. Dai, **Y. Li**, D. Chen, J. Li and G. Lu, "Multimodal Decoupled Distillation Graph Neural Network for Emotion Recognition in Conversation," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2024.3405406. ([paper](https://ieeexplore.ieee.org/document/10539116), Corresponding author)
 - H. Lin, **Y. Li**, Z. Zhang, L. Zhu and Y. Xu, "Learning With Noisy Labels by Semantic and Feature Space Collaboration," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 34, no. 8, pp. 7190-7201, Aug. 2024, doi: 10.1109/TCSVT.2024.3371513. ([paper](https://ieeexplore.ieee.org/document/10454029), Co-first author)
-- D. Li, **Y. Li**, X. Ma, J. Li, and G. Lu, "Triple-stream Siamese
+- D. Li, Y. Li, X. Ma, J. Li, and G. Lu, "Triple-stream Siamese
 Segmentation Network for Printed Label Defect Detection", IEEE Transactions on Instrumentation and Measurement, 2024. (Accepted, Co-first author)
 
 
+# 💻 Projects 
+
 # 🏆️ Honors and Awards
-- Outstanding Doctoral Dissertation Award, SZCCF, 2024.
 
 # 📖 Educations
-- Nanyang Technological University, Visit PhD student, 2021-2022.
-- Harbin Institute of Technology, PhD, 2018-2023.
-- Harbin Institute of Technology, MS, 2016-2018.
-- Harbin Institute of Technology, BS, 2012-2016.
 
+# 💬 Invited Talks
 
