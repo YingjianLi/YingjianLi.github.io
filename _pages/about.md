@@ -33,7 +33,7 @@ Full publication list is [here](https://scholar.google.com/citations?user=4am2MO
 - H. Lin, **Y. Li**, Z. Zhang, L. Zhu and Y. Xu, "Learning With Noisy Labels by Semantic and Feature Space Collaboration," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 34, no. 8, pp. 7190-7201, Aug. 2024, doi: 10.1109/TCSVT.2024.3371513. ([paper](https://ieeexplore.ieee.org/document/10454029), Co-first author)
 - D. Li, **Y. Li**, X. Ma, J. Li, and G. Lu, "Triple-stream Siamese Segmentation Network for Printed Label Defect Detection", IEEE Transactions on Instrumentation and Measurement, 2024. (Accepted, Co-first author)
 
-# 🏆️ Honors
+# 📖 Honors
 - Outstanding Doctoral Dissertation Award, SZCCF, 2024.
 
 # 📖 Educations
