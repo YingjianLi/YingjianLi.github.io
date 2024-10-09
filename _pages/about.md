@@ -18,7 +18,7 @@ Yingjian Li received the B.Sc., M.Sc., and Ph.D. degrees from Harbin Institute o
 # 🔥 News
 - *2023.04*: &nbsp;🎉🎉 I have joined PCL as a postdoc.
 
-# 📝 Selected Publications 
+# 📝 Publications 
 
 Full publication list is [here](https://scholar.google.com/citations?user=4am2MOoAAAAJ).
 
