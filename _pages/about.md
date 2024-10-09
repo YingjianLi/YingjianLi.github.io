@@ -1,4 +1,4 @@
-![icons8-medals-48](https://github.com/user-attachments/assets/a3e1bf89-e323-437a-876d-2a733ded9452)---
+---
 permalink: /
 title: ""
 excerpt: ""
