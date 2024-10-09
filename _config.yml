@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yingjian Li"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/pic_512.png"
   bio              : "Peng Cheng Laboratory"
   location         : "Shenzhen, China"
   employer         :
