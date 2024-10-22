@@ -16,6 +16,7 @@ Yingjian Li received the B.Sc., M.Sc., and Ph.D. degrees from Harbin Institute o
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 One paper is published on IEEE TIM.
 - *2023.04*: &nbsp;🎉🎉 I have joined PCL as a postdoc.
 
 # 📝 Publications 
@@ -31,7 +32,7 @@ Full publication list is [here](https://scholar.google.com/citations?user=4am2MO
 - **Y. Li**, Y. Lu, B. Chen, Z. Zhang, J. Li, G. Lu, and D. Zhang, "Learning Informative and Discriminative Features for Facial Expression Recognition in the Wild," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 32, no. 5, pp. 3178-3189, May 2022, doi: 10.1109/TCSVT.2021.3103760. ([paper](https://ieeexplore.ieee.org/document/9511448))
 - Y. Dai, **Y. Li**, D. Chen, J. Li and G. Lu, "Multimodal Decoupled Distillation Graph Neural Network for Emotion Recognition in Conversation," in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2024.3405406. ([paper](https://ieeexplore.ieee.org/document/10539116), Corresponding author)
 - H. Lin, **Y. Li**, Z. Zhang, L. Zhu and Y. Xu, "Learning With Noisy Labels by Semantic and Feature Space Collaboration," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 34, no. 8, pp. 7190-7201, Aug. 2024, doi: 10.1109/TCSVT.2024.3371513. ([paper](https://ieeexplore.ieee.org/document/10454029), Co-first author)
-- D. Li, **Y. Li**, X. Ma, J. Li, and G. Lu, "Triple-stream Siamese Segmentation Network for Printed Label Defect Detection", IEEE Transactions on Instrumentation and Measurement, 2024, doi: 10.1109/TIM.2024.3472770. (Accepted, Co-first author)
+- D. Li, **Y. Li**, X. Ma, J. Li, and G. Lu, "Triple-stream Siamese Segmentation Network for Printed Label Defect Detection", IEEE Transactions on Instrumentation and Measurement, 2024, doi: 10.1109/TIM.2024.3472770. ([paper](https://ieeexplore.ieee.org/document/10726567), Co-first author)
 
 # 🎖 Honors 
 - Outstanding Doctoral Dissertation Award, SZCCF, 2024.
