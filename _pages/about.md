@@ -19,6 +19,7 @@ Yingjian Li received the B.Sc., M.Sc., and Ph.D. degrees from Harbin Institute o
 - *2024.10*: &nbsp;🎉🎉 One paper is published on IEEE TIM.
 - *2024.05*: &nbsp;🎉🎉 One paper is published on IEEE TCSVT.
 - *2024.02*: &nbsp;🎉🎉 One paper is published on IEEE TCSVT.
+- *2023.09*: &nbsp;🎉🎉 One paper is published on IEEE TIP.
 - *2023.04*: &nbsp;🎉🎉 I have joined PCL as a postdoc.
 
 # 📝 Publications 
