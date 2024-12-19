@@ -41,7 +41,7 @@ Full publication list is [here](https://scholar.google.com/citations?user=4am2MO
 - Outstanding Doctoral Dissertation Award, SZCCF, 2024.
 
 # 📖 Educations
-- Nanyang Technological University, Visiting PhD student, 2021-2022.
+- Nanyang Technological University, Visiting PhD student, 2021-2022, supervised by Prof. Shijian Lu.
 - Harbin Institute of Technology, PhD, 2018-2023, supervised by Prof. Guangming Lu.
 - Harbin Institute of Technology, MS, 2016-2018, supervised by Prof. Qiong Li.
 - Harbin Institute of Technology, BS, 2012-2016.
