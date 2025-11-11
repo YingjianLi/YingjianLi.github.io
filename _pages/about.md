@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yingjian Li received the B.Sc., M.Sc., and Ph.D. degrees from Harbin Institute of Technology, China, in 2016, 2018, and 2023, respectively. Now he is an Assistant Professor at Institute of Perceptual Intelligence, Pengcheng Laboratory, Shenzhen, China. His research interests include incremental learning, domain adaptation, and cloud-device collaborative learning. He has published more than 20 journal (IEEE TIP, TMM, TAFFC, TCSVT, etc.) and conference (ACM-MM) papers. He has won the Outstanding Doctoral Dissertation Award of SZCCF, and served as a reviewer for journals such as IEEE TNNLS and a member of the program committee of top conferences such as CVPR.
+Yingjian Li received the B.Sc., M.Sc., and Ph.D. degrees from Harbin Institute of Technology, China, in 2016, 2018, and 2023, respectively. Now he is an Assistant Research Fellow at Institute of Perceptual Intelligence, Pengcheng Laboratory, Shenzhen, China. His research interests include incremental learning, domain adaptation, and cloud-device collaborative learning. He has published more than 20 journal (IEEE TIP, TMM, TAFFC, TCSVT, etc.) and conference (ACM-MM) papers. He has won the Outstanding Doctoral Dissertation Award of SZCCF, and served as a reviewer for journals such as IEEE TNNLS and a member of the program committee of top conferences such as CVPR.
 
 
 
