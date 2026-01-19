@@ -16,6 +16,8 @@ Yingjian Li received the B.Sc., M.Sc., and Ph.D. degrees from Harbin Institute o
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper is accpeted by IEEE TNNLS.
+- *2025.12*: &nbsp;🎉🎉 One paper is accpeted by IPS.
 - *2025.11*: &nbsp;🎉🎉 One paper is accpeted by AAAI-26.
 - *2025.09*: &nbsp;🎉🎉 One paper is accpeted by IEEE TAFFC.
 - *2024.10*: &nbsp;🎉🎉 One paper is published on IEEE TIM.
