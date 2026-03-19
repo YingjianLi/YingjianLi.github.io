@@ -31,7 +31,7 @@ Yingjian Li received the B.Sc., M.Sc., and Ph.D. degrees from Harbin Institute o
 
 Full publication list is [here](https://scholar.google.com/citations?user=4am2MOoAAAAJ).
 
-- **Y. Li**, Y. Gao, B. Chen, Z. Zhang, L. Zhu, and G. Lu. 2021. JDMAN: Joint Discriminative and Mutual Adaptation Networks for Cross-Domain Facial Expression Recognition. In Proceedings of the 29th ACM International Conference on Multimedia (MM '21). Association for Computing Machinery, New York, NY, USA, 3312–3320. doi: 10.1145/3474085.3475484.([paper](https://dl.acm.org/doi/10.1145/3474085.3475484))
+- **Y. Li**, Y. Gao, B. Chen, Z. Zhang, L. Zhu, and G. Lu. 2021. JDMAN: Joint Discriminative and Mutual Adaptation Networks for Cross-Domain Facial Expression Recognition. In Proceedings of the 29th ACM International Conference on Multimedia (MM '21). Association for Computing Machinery, New York, NY, USA, 3312–3320. doi: 10.1145/3474085.3475484.([paper](https://dl.acm.org/doi/10.1145/3474085.3475484),[code](https://github.com/YingjianLi/JDMAN))
 - **Y. Li**, J. Huang, S. Lu, Z. Zhang and G. Lu, "Cross-Domain Facial Expression Recognition via Contrastive Warm up and Complexity-Aware Self-Training," in IEEE Transactions on Image Processing, vol. 32, pp. 5438-5450, 2023, doi: 10.1109/TIP.2023.3318955. ([paper](https://ieeexplore.ieee.org/abstract/document/10268350))
 - **Y. Li**, G. Lu, J. Li, Z. Zhang and D. Zhang, "Facial Expression Recognition in the Wild Using Multi-Level Features and Attention Mechanisms," in IEEE Transactions on Affective Computing, vol. 14, no. 1, pp. 451-462, 1 Jan.-March 2023, doi: 10.1109/TAFFC.2020.3031602.
 ([paper](https://ieeexplore.ieee.org/document/9226503))
