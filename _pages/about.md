@@ -16,8 +16,6 @@ Yingjian Li received the B.Sc., M.Sc., and Ph.D. degrees from Harbin Institute o
 
 
 # 🔥 News
-<div style="max-height: 220px; overflow-y: auto; padding-right: 8px;">
-
 <!-- - *2026.08*: &nbsp;🎉🎉 Two papers accepted by IEEE TPAMI (co-author), Congrats to [Zeng You](https://www.youzeng.com.cn/) and [Weikang Meng](https://zacharymeng.github.io/).-->
 <!-- - *2026.05*: &nbsp;🎉🎉 One paper accepted to ICML 2026 (co-author), Congrats to [Weikang Meng](https://zacharymeng.github.io/).-->
 - *2026.03*: &nbsp;🎉🎉 One paper accepted by IEEE TCSVT.
@@ -30,8 +28,6 @@ Yingjian Li received the B.Sc., M.Sc., and Ph.D. degrees from Harbin Institute o
 - *2024.02*: &nbsp;🎉🎉 One paper accepted by IEEE TCSVT.
 - *2023.09*: &nbsp;🎉🎉 One paper accepted by IEEE TIP.
 - *2023.04*: &nbsp;🎉🎉 I joined PCL as a postdoc.
-
-</div>
 
 # 📝 Publications 
 
