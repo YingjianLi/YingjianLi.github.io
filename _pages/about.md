@@ -16,16 +16,16 @@ Yingjian Li received the B.Sc., M.Sc., and Ph.D. degrees from Harbin Institute o
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 One paper is accpeted by ICML-26.
-- *2026.03*: &nbsp;🎉🎉 One paper is accpeted by IEEE TCSVT.
-- *2026.01*: &nbsp;🎉🎉 One paper is accpeted by IEEE TNNLS.
-- *2025.12*: &nbsp;🎉🎉 One paper is accpeted by IPM.
-- *2025.11*: &nbsp;🎉🎉 One paper is accpeted by AAAI-26.
-- *2025.09*: &nbsp;🎉🎉 One paper is accpeted by IEEE TAFFC.
-- *2024.10*: &nbsp;🎉🎉 One paper is published on IEEE TIM.
-- *2024.05*: &nbsp;🎉🎉 One paper is published on IEEE TCSVT.
-- *2024.02*: &nbsp;🎉🎉 One paper is published on IEEE TCSVT.
-- *2023.09*: &nbsp;🎉🎉 One paper is published on IEEE TIP.
+- *2026.05*: &nbsp;🎉🎉 One paper accpeted to ICML 2026.
+- *2026.03*: &nbsp;🎉🎉 One paper accpeted by IEEE TCSVT.
+- *2026.01*: &nbsp;🎉🎉 One paper accpeted by IEEE TNNLS.
+- *2025.12*: &nbsp;🎉🎉 One paper accpeted by IPM.
+- *2025.11*: &nbsp;🎉🎉 One paper accpeted to AAAI-26.
+- *2025.09*: &nbsp;🎉🎉 One paper accpeted by IEEE TAFFC.
+- *2024.10*: &nbsp;🎉🎉 One paper accpeted by IEEE TIM.
+- *2024.05*: &nbsp;🎉🎉 One paper accpeted by IEEE TCSVT.
+- *2024.02*: &nbsp;🎉🎉 One paper accpeted by IEEE TCSVT.
+- *2023.09*: &nbsp;🎉🎉 One paper accpeted by IEEE TIP.
 - *2023.04*: &nbsp;🎉🎉 I have joined PCL as a postdoc.
 
 # 📝 Publications 
