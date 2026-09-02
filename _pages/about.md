@@ -16,16 +16,17 @@ Yingjian Li received the B.Sc., M.Sc., and Ph.D. degrees from Harbin Institute o
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 One paper accpeted to ICML 2026.
-- *2026.03*: &nbsp;🎉🎉 One paper accpeted by IEEE TCSVT.
-- *2026.01*: &nbsp;🎉🎉 One paper accpeted by IEEE TNNLS.
-- *2025.12*: &nbsp;🎉🎉 One paper accpeted by IPM.
-- *2025.11*: &nbsp;🎉🎉 One paper accpeted to AAAI-26.
-- *2025.09*: &nbsp;🎉🎉 One paper accpeted by IEEE TAFFC.
-- *2024.10*: &nbsp;🎉🎉 One paper accpeted by IEEE TIM.
-- *2024.05*: &nbsp;🎉🎉 One paper accpeted by IEEE TCSVT.
-- *2024.02*: &nbsp;🎉🎉 One paper accpeted by IEEE TCSVT.
-- *2023.09*: &nbsp;🎉🎉 One paper accpeted by IEEE TIP.
+- *2026.08*: &nbsp;🎉🎉 Two papers accepted by IEEE TPAMI (co-author), Congrats to [Zeng You](https://www.youzeng.com.cn/) and [Weikang Meng](https://zacharymeng.github.io/).
+- *2026.05*: &nbsp;🎉🎉 One paper accepted to ICML 2026 (co-author), Congrats to [Weikang Meng](https://zacharymeng.github.io/).
+- *2026.03*: &nbsp;🎉🎉 One paper accepted by IEEE TCSVT.
+- *2026.01*: &nbsp;🎉🎉 One paper accepted by IEEE TNNLS.
+- *2025.12*: &nbsp;🎉🎉 One paper accepted by IPM.
+- *2025.11*: &nbsp;🎉🎉 One paper accepted to AAAI 2026 (co-author), Congrats to [Taiqin Chen](https://scholar.google.com/citations?user=z8def3MAAAAJ).
+- *2025.09*: &nbsp;🎉🎉 One paper accepted by IEEE TAFFC.
+- *2024.10*: &nbsp;🎉🎉 One paper accepted by IEEE TIM.
+- *2024.05*: &nbsp;🎉🎉 One paper accepted by IEEE TCSVT.
+- *2024.02*: &nbsp;🎉🎉 One paper accepted by IEEE TCSVT.
+- *2023.09*: &nbsp;🎉🎉 One paper accepted by IEEE TIP.
 - *2023.04*: &nbsp;🎉🎉 I have joined PCL as a postdoc.
 
 # 📝 Publications 
