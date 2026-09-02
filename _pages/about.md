@@ -48,6 +48,7 @@ Full publication list is [here](https://scholar.google.com/citations?user=4am2MO
 
 # 🎖 Honors 
 - Outstanding Doctoral Dissertation Award, SZCCF, 2024.
+- Shenzhen Specially Appointed Talent Program.
 
 # 📖 Educations
 - Nanyang Technological University, Visiting PhD student, 2021-2022, supervised by Prof. Shijian Lu.
