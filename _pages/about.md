@@ -16,7 +16,7 @@ Yingjian Li received the B.Sc., M.Sc., and Ph.D. degrees from Harbin Institute o
 
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉🎉 Two papers accepted by IEEE TPAMI, Congrats to [Zeng You](https://www.youzeng.com.cn/) and [Weikang Meng](https://zacharymeng.github.io/)!
+- *2026.08*: &nbsp;🎉🎉 Two papers accepted by IEEE TPAMI, Congrats to [Zeng You](https://www.youzeng.com.cn/) and [Weikang Meng](https://zacharymeng.github.io/) [Project](https://github.com/ZacharyMeng/PolaFormerPP)!
 - *2026.05*: &nbsp;🎉🎉 One paper accepted to ICML 2026, Congrats to [Weikang Meng](https://zacharymeng.github.io/)!
 - *2026.03*: &nbsp;🎉🎉 One paper accepted by IEEE TCSVT.
 - *2026.01*: &nbsp;🎉🎉 One paper accepted by IEEE TNNLS, Congrats to [Yushi Zeng](https://scholar.google.com/citations?user=N3SBWsYAAAAJ)!
